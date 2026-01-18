@@ -1,0 +1,27 @@
+{
+  "name": "podsnack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanishkathakkar/PodSnack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanishkathakkar/PodSnack/issues"
+  },
+  "homepage": "https://github.com/vanishkathakkar/PodSnack#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "react-router-dom": "^7.12.0"
+  }
+}
